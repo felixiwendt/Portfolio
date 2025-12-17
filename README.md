@@ -4,6 +4,12 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 
 ## Setup
 
+Switch to the correct folder:
+
+```bash
+cd ./portfolio-wendt-milestone-3
+```
+
 Make sure to install dependencies:
 
 ```bash
