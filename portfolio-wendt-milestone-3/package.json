@@ -1,0 +1,32 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.15.7",
+    "@nuxt/content": "2",
+    "@nuxt/icon": "1.12.0",
+    "@splinetool/loader": "^1.9.95",
+    "@splinetool/runtime": "^1.9.95",
+    "dotenv": "^16.5.0",
+    "drizzle-orm": "^0.43.1",
+    "estree-walker": "^3.0.3",
+    "nuxt": "^3.17.2",
+    "nuxt-lucide-icons": "^1.0.5",
+    "three": "0.152.2",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "drizzle-kit": "^0.31.1",
+    "tsx": "^4.19.4"
+  }
+}

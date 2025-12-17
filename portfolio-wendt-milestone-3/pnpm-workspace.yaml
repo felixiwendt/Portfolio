@@ -1,0 +1,7 @@
+# filepath: c:\Users\felix\Documents\Studium\6.Semester\Webtech\Portfolio\portfolio-wendt\pnpm-workspace.yaml
+packages:
+  - ./
+onlyBuiltDependencies:
+  - "@parcel/watcher"
+  - better-sqlite3
+  - esbuild
